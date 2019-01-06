@@ -1,0 +1,5 @@
+﻿  Object Oriented Fluid Simulator.cpp
+c:\users\ronan tunney\source\repos\object oriented fluid simulator\object oriented fluid simulator\object oriented fluid simulator.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ronan tunney\source\repos\object oriented fluid simulator\object oriented fluid simulator\object oriented fluid simulator.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ronan tunney\source\repos\object oriented fluid simulator\object oriented fluid simulator\object oriented fluid simulator.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Object Oriented Fluid Simulator.vcxproj -> C:\Users\Ronan Tunney\source\repos\Object Oriented Fluid Simulator\Debug\Object Oriented Fluid Simulator.exe
